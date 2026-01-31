@@ -1,1 +1,58 @@
 # crazyfishing-plus
+# 🎣 CrazyFishingPro
+
+CrazyFishingPro è una web app / progressive web app (PWA) dedicata alla **pesca in mare**, progettata per offrire un supporto decisionale pratico e immediato a pescatori principianti, appassionati ed esperti.
+
+L’app nasce dall’esperienza reale sul campo e integra strumenti utili per analizzare le condizioni marine, lo spot e il comportamento dei pesci.
+
+---
+
+## 🌊 Funzionalità principali
+
+- 📡 **Meteo e stato del mare**
+- 🌫️ **Analisi dello stato dell’acqua**  
+  (limpida, torbida, corrente, schiuma)
+- 📍 **Analisi spot di pesca**
+- 🐟 **Selezione della specie target**
+- 🧭 **Analisi pattern di predazione**
+- ⏱️ **Previsione attività dei pesci (24h)** basata su:
+  - luce (alba / tramonto)
+  - fase lunare
+  - marea (bassa, montante, calante)
+  - condizioni meteo-marine
+- 🧰 **Montature, parature e assetti consigliati**
+- 📓 **Diario catture**
+- 🎯 **Consigli tecnici per la pesca alla bolognese e tecniche affini**
+
+---
+
+## 📱 Utilizzo
+
+CrazyFishingPro è utilizzabile:
+- da **browser web**
+- come **PWA installabile**
+- all’interno di **app Android (WebView / APK)**
+
+L’app non sostituisce l’esperienza del pescatore, ma fornisce **uno strumento di supporto alle decisioni** durante la pianificazione e l’azione di pesca.
+
+---
+
+## 🔒 Privacy e dati
+
+CrazyFishingPro **non raccoglie né condivide dati personali degli utenti**.
+
+Eventuali richieste tecniche (ad esempio dati meteo) vengono utilizzate esclusivamente per fornire le funzionalità dell’app e non vengono memorizzate per fini di tracciamento o profilazione.
+
+---
+
+## 🛠️ Struttura del progetto---
+
+## 👤 Autore
+
+Progetto ideato e sviluppato da **Luca Mandis**,  
+per la comunità di appassionati di pesca in mare.
+
+---
+
+🎣 *Il mare cambia ogni giorno.  
+Con gli strumenti giusti, la pesca cambia in meglio.*
